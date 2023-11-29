@@ -18,4 +18,3 @@ for ( let i in obj ){
 		ans = obj[i];
 	}
 }
-return ans;
